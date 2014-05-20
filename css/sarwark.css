@@ -140,6 +140,35 @@ a:focus {
     vertical-align: middle;
 }
 
+p.intro-text{
+    color: #CFC;
+}
+
+p.about-text{
+    color: #CFC;
+}
+
+
+.footer {
+    display: table;
+    width: 100%;
+    height: auto;
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
+    background: url(../img/footer-bg.jpg) no-repeat top scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.footer-body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
 .brand-heading {
     font-size: 40px;
 }
