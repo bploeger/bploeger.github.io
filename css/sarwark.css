@@ -160,6 +160,10 @@ p.qual-text{
     color: #cfc;
 }
 
+p.supporters-text{
+    font-size: 16px;
+}
+
 .footer {
     display: table;
     width: 100%;
