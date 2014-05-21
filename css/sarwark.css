@@ -292,12 +292,27 @@ p.qual-text{
     -o-background-size: cover;
 }
 
+.supporters-section {
+    width: 100%;
+    padding: 50px 0;
+    color: #000;    
+    background-color: #ccc;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 @media(min-width:767px) {
     .content-section {
         padding-top: 250px;
     }
 
     .qualifications-section {
+        padding: 100px 0;
+    }
+
+    .supporters-section {
         padding: 100px 0;
     }
 }
