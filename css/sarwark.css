@@ -139,7 +139,7 @@ a:focus {
     padding: 150px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    background: url(../img/LPpaper.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -175,7 +175,6 @@ p.supporters-text{
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/footer-bg.jpg) no-repeat top scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
