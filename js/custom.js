@@ -13,7 +13,7 @@ jQuery(window)
             }
             
             // remove code when you upload
-            var $buythemediv = '<div class="buy-theme xs-display-none"><a href="http://themeforest.net/item/sturlly-responsive-one-page-multipurpose-template/10019456?ref=themezaa" target="_blank"><span>Purchase Theme</span></a></div><div class="quick-question xs-display-none"><a href="mailto:info@themezaa.com?subject=Sturlly Quick Question"><span>Quick Question?</span></a></div>';
+            var $buythemediv = '<div class="donate-now xs-display-none"><a href="https://PayPal.me/nsarwark" target="_blank"><span>Donate to Nick</span></a></div>';
             jQuery('body').append($buythemediv);
 
         })
